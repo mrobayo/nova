@@ -1,6 +1,3 @@
-{extends file='comun/navbar.tpl'}
-
-{block name=sidebar}
 
         <div class="sidebar">
             <nav class="sidebar-nav">
@@ -176,6 +173,4 @@
                 </ul>
             </nav>
         </div>
-        
-{/block}        
         

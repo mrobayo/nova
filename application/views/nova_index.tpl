@@ -1,5 +1,5 @@
 
-	{extends file='comun/aside.tpl'}
+	{extends file='comun/layout.tpl'}
 	
 	{block name=title} 20050022 - SOLCA - INTRANET{/block}
 

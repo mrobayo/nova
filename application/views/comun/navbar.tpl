@@ -1,6 +1,5 @@
-{extends file='comun/layout.tpl'}
 
-{block name=navbar}
+
 	
 	<header class="app-header navbar">
         <button class="navbar-toggler mobile-sidebar-toggler hidden-lg-up" type="button">&#9776;</button>
@@ -13,7 +12,7 @@
         </ul>
         <form class="form-inline float-left b-r-1 px-2 hidden-md-down">
             <i class="fa fa-search"></i>
-            <input class="form-control" type="text" placeholder="Búsqueda...">
+            <input class="form-control" type="text" placeholder="Buscar HC/Nombre...">
         </form>
         <ul class="nav navbar-nav ml-auto">
             <li class="nav-item dropdown hidden-md-down pr-2">
@@ -280,4 +279,3 @@
         </ul>
     </header>
     
-{/block}

@@ -1,6 +1,4 @@
-{extends file='comun/sidebar.tpl'}
 
-{block name=aside}
         <aside class="aside-menu">
             <ul class="nav nav-tabs" role="tablist">
                 <li class="nav-item">
@@ -288,4 +286,3 @@
             </div>
         </aside>
         
-{/block}        
