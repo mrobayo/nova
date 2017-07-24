@@ -1,0 +1,33 @@
+<?php
+
+namespace Entity;
+
+/**
+ * @Entity @Table(name="product")
+ */
+class Product {
+	/**
+	 * @Id @Column(type="integer") 
+	 */
+	protected $id;
+	/**
+	 * @Column(type="string") 
+	 */
+	protected $name;
+	
+	public function getId() {
+		return $this->id;
+	}
+	
+	public function setId($id) {
+		return $this->id = $id;		
+	}
+	
+	public function getName() {
+		return $this->name;
+	}
+	
+	public function setName($name) {
+		$this->name = $name;
+	}
+}

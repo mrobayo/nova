@@ -12,7 +12,7 @@
         </ul>
         <form class="form-inline float-left b-r-1 px-2 hidden-md-down">
             <i class="fa fa-search"></i>
-            <input class="form-control" type="text" placeholder="Buscar HC/Nombre...">
+            <input class="form-control" type="text" placeholder="Buscar Paciente...">
         </form>
         <ul class="nav navbar-nav ml-auto">
             <li class="nav-item dropdown hidden-md-down pr-2">
@@ -20,15 +20,10 @@
                     <img src="/img/flags/United-Kingdom.png" class="img-flag" alt="English" height="24">
                 </a>
                 <div class="dropdown-menu dropdown-menu-right">
-                    <div class="dropdown-header text-center">
-                        <strong>Escoja un idioma</strong>
-                    </div>
-                    <a class="dropdown-item" href="#">
-                        <img src="/img/flags/Poland.png" class="img-flag" alt="Polish" height="24">Polish</a>
-                    <a class="dropdown-item" href="#">
-                        <img src="/img/flags/United-Kingdom.png" class="img-flag" alt="English" height="24">English</a>
-                    <a class="dropdown-item" href="#">
-                        <img src="/img/flags/Spain.png" class="img-flag" alt="Espa�ol" height="24">Espa�ol</a>
+                    <div class="dropdown-header text-center"> <strong>Escoja un proceso</strong> </div>
+                    <a class="dropdown-item" href="#"> <img src="/img/flags/Poland.png" class="img-flag" alt="Polish" height="24"> Polish</a>
+                    <a class="dropdown-item" href="#"> <img src="/img/flags/United-Kingdom.png" class="img-flag" alt="English" height="24"> English</a>
+                    <a class="dropdown-item" href="#"> <img src="/img/flags/Spain.png" class="img-flag" alt="Español" height="24"> Español</a>
                 </div>
             </li>
             <li class="nav-item dropdown hidden-md-down">

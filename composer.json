@@ -1,0 +1,17 @@
+{
+	"name" : "Nova",
+	"description" : "Admin site with Codeigniter 3.1.5",
+	"type" : "project",
+	"minimum-stability" : "dev",
+	"authors" : [{
+			"name" : "Mario Robayo",
+			"email" : "mrobayo@gmail.com"
+		}
+	],
+	"config" : {
+		"vendor-dir" : "application/third_party/vendor"
+	},
+	"require" : {
+		"doctrine/orm" : "v2.5.6"
+	}
+}

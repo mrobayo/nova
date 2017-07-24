@@ -22,6 +22,14 @@ class Nova extends CI_Controller {
 	{
 		//$this->load->view('nova_index');
 		
+		$product = new Entity\Product();
+		
+		$product->setId(1);
+		$product->setName('Teste');
+		
+		$this->doctrine->em->persist($product);
+		$this->doctrine->em->flush();    
+				
 		$this->smarty->view('nova_index');
 	}
 }
