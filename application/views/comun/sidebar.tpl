@@ -33,7 +33,7 @@
 	                        <a class="nav-link nav-dropdown-toggle" href="#"> Historia Clínica</a>
 	                        <ul class="nav-dropdown-items">
 	                            <li class="nav-item">
-	                                <a class="nav-link" href="components/buttons.html"><i class="icon-folder-alt"></i> Datos Generales</a>
+	                                <a class="nav-link" href="main.html"><i class="icon-folder-alt"></i> Datos Demográficos</a>
 	                            </li>
 	                            <li class="nav-item">
 	                                <a class="nav-link" href="components/social-buttons.html"><i class="icon-speech"></i> Antecedentes Médicos</a>

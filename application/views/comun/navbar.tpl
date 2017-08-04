@@ -138,7 +138,7 @@
             
             <li class="nav-item dropdown">
                 <a class="btn btn-outline" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" title="Nombre Médico Tratante">
-                    <i class="text-info icon-user"></i> USUARIO              
+                    <i class="text-info icon-user"></i> GONZALO PUGA              
                 </a>
                 <div class="dropdown-menu dropdown-menu-right">
                 	<div class="dropdown-header text-center">

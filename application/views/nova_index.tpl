@@ -13,7 +13,7 @@
                 <li class="breadcrumb-item">Paciente</li>
                 <li class="breadcrumb-item"><a href="#">Historia Clínica</a>
                 </li>
-                <li class="breadcrumb-item active">Datos Generales</li>
+                <li class="breadcrumb-item active">Datos Demográficos</li>
             </ol>
 
 
