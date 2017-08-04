@@ -19,7 +19,7 @@
             <span style="line-height: 1.3;">20035104<br>ONCOLOGICO</span> 
         </form>
         <form class="form-inline float-left b-r-1 px-h hidden-md-down">            
-            <span style="line-height: 1.3;"><b>JESSICA<br>AGUIRREAURRECOECHEA RIVADENEIRA</b></span>
+            <span style="line-height: 1.3;"><b>JESSICA<br>AGUIRRE RIVADENEIRA</b></span>
         </form>
         <form class="form-inline float-left b-r-1 px-h hidden-md-down">            
             <span style="line-height: 1.3;">39 años</span>
@@ -28,7 +28,7 @@
             O+
         </form>
         <form class="form-inline float-left b-r-1 px-h hidden-md-down">            
-            <span style="line-height: 1.3; font-size: smaller; font-family: Tahoma, 'Arial Narrow', Arial; "><b>CONVENIO VIGENTE / IESS GUAYAQUIL <br>Atención INTEGRAL / 25-OCT-2017</b></span>            
+            <span style="line-height: 1.3; font: bolder smaller Tahoma, Calibri, Arial; ">CONVENIO VIGENTE / IESS GUAYAQUIL <br>Atención INTEGRAL / 25-OCT-2017</span>            
         </form>
         
         <ul class="nav navbar-nav ml-auto">

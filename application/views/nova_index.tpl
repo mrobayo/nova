@@ -11,9 +11,9 @@
             <!-- Breadcrumb -->
             <ol class="breadcrumb mb-0">
                 <li class="breadcrumb-item">Paciente</li>
-                <li class="breadcrumb-item"><a href="#">Datos Generales</a>
+                <li class="breadcrumb-item"><a href="#">Historia Clínica</a>
                 </li>
-                <li class="breadcrumb-item active">Antecentes Médicos</li>
+                <li class="breadcrumb-item active">Datos Generales</li>
             </ol>
 
 
