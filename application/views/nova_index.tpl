@@ -1,7 +1,7 @@
 
 	{extends file='comun/layout.tpl'}
 	
-	{block name=title} 20050022 - SOLCA - INTRANET{/block}
+	{block name=title}20035104 - Jessica BAQUE R.{/block}
 
 	{block name=body}
 	
@@ -10,10 +10,10 @@
 
             <!-- Breadcrumb -->
             <ol class="breadcrumb mb-0">
-                <li class="breadcrumb-item">Home</li>
-                <li class="breadcrumb-item"><a href="#">Admin</a>
+                <li class="breadcrumb-item">Paciente</li>
+                <li class="breadcrumb-item"><a href="#">Datos Generales</a>
                 </li>
-                <li class="breadcrumb-item active">Dashboard</li>
+                <li class="breadcrumb-item active">Antecentes Médicos</li>
             </ol>
 
 

@@ -1,6 +1,16 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+/**
+ * http://www.sintec.com/p_innovador/hospitales-privados/
+ * 
+ * https://material.io/guidelines/style/color.html#color-color-palette
+ * https://www.youtube.com/user/influenceatwork
+ * http://librosgratisxd.com/autores-2/
+ * 
+ * @author mrobayo
+ *
+ */
 class Nova extends CI_Controller {
 
 	/**
@@ -22,13 +32,13 @@ class Nova extends CI_Controller {
 	{
 		//$this->load->view('nova_index');
 		
-		$product = new Entity\Product();
+// 		$product = new Entity\Product();
 		
-		$product->setId(1);
-		$product->setName('Teste');
+// 		$product->setId(1);
+// 		$product->setName('Teste');
 		
-		$this->doctrine->em->persist($product);
-		$this->doctrine->em->flush();    
+// 		$this->doctrine->em->persist($product);
+// 		$this->doctrine->em->flush();    
 				
 		$this->smarty->view('nova_index');
 	}

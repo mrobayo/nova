@@ -5,7 +5,11 @@ use Doctrine\Common\ClassLoader,
     Doctrine\ORM\EntityManager;
 
 /**
+ * http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/cookbook/integrating-with-codeigniter.html
+ * https://github.com/wildlyinaccurate/CodeIgniter-with-Doctrine-2
  * 
+ * http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/
+ * http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/reference/configuration.html
  * 
  * @author mrobayo
  */

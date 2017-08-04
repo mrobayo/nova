@@ -52,7 +52,7 @@
         
 	        <a href="http://www.solca.med.ec">SOLCA</a> &copy; {'Y'|date} Sociedad de Lucha Contra el Cáncer.
 	        <span class="float-right">
-	            Provisto por <a href="https://openjsoft.com">OpenJSoft</a>
+	            PRODUCCIÓN 
 	        </span>
 	        
 	    </footer>
