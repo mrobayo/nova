@@ -8,16 +8,15 @@
     <meta name="description" content="SOLCA INTRANET">
     <meta name="author" content="SOLCA DEV TEAM"> 
         
-    <link rel="shortcut icon" href="/img/h/hospital-7-128.png">
+    <link rel="shortcut icon" href="/img/h/hospital-1-128.png">
     <!--[if IE]><link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/img/h/hospital-7-128.ico"><![endif]-->
 
     <title>{block name=title}SOLCA - INTRANET{/block}</title>
     
     <!-- Icons -->
-    <link href="/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/css/wfmi-style.css" rel="stylesheet">    
     <link href="/css/simple-line-icons.css" rel="stylesheet">
-    
-    <!-- <link rel="stylesheet" href="/css/bootstrap.min.css"> -->
+        
     <link rel="stylesheet" href="/css/style.css">
 
 	<style type="text/css">

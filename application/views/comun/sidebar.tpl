@@ -86,22 +86,22 @@
 	                        <a class="nav-link nav-dropdown-toggle" href="#">Inf. Apoyo Diagnóstico</a>
 	                        <ul class="nav-dropdown-items">
 	                            <li class="nav-item">
-	                                <a class="nav-link" href="plugins/calendar.html"><i class="icon-tag"></i> Patología</a>
+	                                <a class="nav-link" href="plugins/calendar.html"><i class="medical-icon-i-pathology"></i> Patología</a>
 	                            </li>
 	                            <li class="nav-item">
-	                                <a class="nav-link" href="plugins/draggable-cards.html"><i class="icon-tag"></i> Citología</a>
+	                                <a class="nav-link" href="plugins/draggable-cards.html"><i class="medical-icon-i-pathology"></i> Citología</a>
 	                            </li>
 	                            <li class="nav-item">
-	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="icon-tag"></i> Radiología</a>
+	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="medical-icon-i-radiology"></i> Radiología</a>
 	                            </li>
 	                            <li class="nav-item">
-	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="icon-tag"></i> Hematología</a>
+	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="medical-icon-i-diabetes-education"></i> Hematología</a>
 	                            </li>
 	                            <li class="nav-item">
 	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="icon-chemistry"></i> Laboratorio</a>
 	                            </li>
 	                            <li class="nav-item">
-	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="icon-tag"></i> Biología Molecular</a>
+	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="medical-icon-i-genetics"></i> Biología Molecular</a>
 	                            </li>
 	                            <li class="nav-item">
 	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="icon-tag"></i> Colposcopía</a>
@@ -112,19 +112,19 @@
 	                        <a class="nav-link nav-dropdown-toggle" href="#">Informes Especialidades</a>
 	                        <ul class="nav-dropdown-items">
 	                            <li class="nav-item">
-	                                <a class="nav-link" href="plugins/calendar.html"><i class="icon-tag"></i> Gastroenterología</a>
+	                                <a class="nav-link" href="plugins/calendar.html"><i class="medical-icon-i-internal-medicine"></i> Gastroenterología</a>
 	                            </li>
 	                            <li class="nav-item">
-	                                <a class="nav-link" href="plugins/draggable-cards.html"><i class="icon-heart"></i> Cardiología</a>
+	                                <a class="nav-link" href="plugins/draggable-cards.html"><i class="medical-icon-i-cardiology"></i> Cardiología</a>
 	                            </li>
 	                            <li class="nav-item">
-	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="icon-tag"></i> Medicia Molecular</a>
+	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="medical-icon-i-cath-lab"></i> Medicina Nuclear</a>
 	                            </li>
 	                            <li class="nav-item">
-	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="icon-tag"></i> Neumología</a>
+	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="medical-icon-i-respiratory"></i> Neumología</a>
 	                            </li>
 	                            <li class="nav-item">
-	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="icon-tag"></i> Urología</a>
+	                                <a class="nav-link" href="plugins/loading-buttons.html"><i class="medical-icon-i-womens-health"></i> Urología</a>
 	                            </li>	                            
 	                        </ul>
                     </li>
@@ -136,7 +136,7 @@
                         <span>Otros</span>
                     </li>
                     <li class="nav-item hidden-cn">
-                        <a class="nav-label" href="#"><i class="fa fa-circle text-danger"></i> Otros Servicios</a>
+                        <a class="nav-label" href="#"><i class="icon-circle text-danger"></i> Otros Servicios</a>
                     </li> -->
                     
 

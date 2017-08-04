@@ -19,7 +19,7 @@
             <span style="line-height: 1.3;">20035104<br>ONCOLOGICO</span> 
         </form>
         <form class="form-inline float-left b-r-1 px-h hidden-md-down">            
-            <span style="line-height: 1.3;">JESSICA<br>AGUIRREAURRECOECHEA RIVADENEIRA</span>
+            <span style="line-height: 1.3;"><b>JESSICA<br>AGUIRREAURRECOECHEA RIVADENEIRA</b></span>
         </form>
         <form class="form-inline float-left b-r-1 px-h hidden-md-down">            
             <span style="line-height: 1.3;">39 años</span>
@@ -28,7 +28,7 @@
             O+
         </form>
         <form class="form-inline float-left b-r-1 px-h hidden-md-down">            
-            Convenio 
+            <span style="line-height: 1.3; font-size: smaller; font-family: Tahoma, 'Arial Narrow', Arial; "><b>CONVENIO VIGENTE / IESS GUAYAQUIL <br>Atención INTEGRAL / 25-OCT-2017</b></span>            
         </form>
         
         <ul class="nav navbar-nav ml-auto">
@@ -144,10 +144,10 @@
                 	<div class="dropdown-header text-center">
                         <strong>Nombre Médico Tratante</strong>
                     </div>
-                    <a class="dropdown-item" href="#"><i class="fa fa-user"></i> Opciones </a>
+                    <a class="dropdown-item" href="#"><i class="icon-settings"></i> Opciones </a>
                     <div class="divider"></div>
-                    <a class="dropdown-item" href="#"><i class="fa fa-shield"></i> Bloquear Pantalla</a>
-                    <a class="dropdown-item" href="#"><i class="fa fa-lock"></i> Salir</a>
+                    <a class="dropdown-item" href="#"><i class="icon-lock"></i> Bloquear Pantalla</a>
+                    <a class="dropdown-item" href="#"><i class="icon-power"></i> Salir</a>
                 </div>
             </li>
             

@@ -234,7 +234,7 @@ $config['log_threshold'] = 4;
 | application/logs/ directory. Use a full server path with trailing slash.
 |
 */
-$config['log_path'] = '../resources/logs/';
+$config['log_path'] = '/srv/www/logs/'.getenv('APP_PREFIX').'nova/';
 
 /*
 |--------------------------------------------------------------------------
@@ -248,7 +248,7 @@ $config['log_path'] = '../resources/logs/';
 | Note: Leaving it blank will default to 'php'.
 |
 */
-$config['log_file_extension'] = '';
+$config['log_file_extension'] = 'log';
 
 /*
 |--------------------------------------------------------------------------
@@ -293,7 +293,7 @@ $config['error_views_path'] = '';
 | application/cache/ directory.  Use a full server path with trailing slash.
 |
 */
-$config['cache_path'] = '../resources/cache/';
+$config['cache_path'] = sys_get_temp_dir().'/'.getenv('APP_PREFIX').'nova/';
 
 /*
 |--------------------------------------------------------------------------
@@ -324,7 +324,7 @@ $config['cache_query_string'] = FALSE;
 | https://codeigniter.com/user_guide/libraries/encryption.html
 |
 */
-$config['encryption_key'] = '';
+$config['encryption_key'] = 'JESUS MARIA Y JOSE';
 
 /*
 |--------------------------------------------------------------------------
@@ -378,7 +378,7 @@ $config['encryption_key'] = '';
 |
 */
 $config['sess_driver'] = 'files';
-$config['sess_cookie_name'] = 'ci_session';
+$config['sess_cookie_name'] = getenv('APP_PREFIX').'nv_session';
 $config['sess_expiration'] = 7200;
 $config['sess_save_path'] = NULL;
 $config['sess_match_ip'] = FALSE;
