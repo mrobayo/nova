@@ -16,7 +16,7 @@
         </form>
         
         <form class="form-inline float-left b-r-1 px-h hidden-md-down">            
-            20035104 
+            <span style="line-height: 1.3;">20035104<br>ONCOLOGICO</span> 
         </form>
         <form class="form-inline float-left b-r-1 px-h hidden-md-down">            
             <span style="line-height: 1.3;">JESSICA<br>AGUIRREAURRECOECHEA RIVADENEIRA</span>
@@ -151,10 +151,6 @@
                 </div>
             </li>
             
-            <!-- <li class="nav-item hidden-md-down">
-                <a class="nav-link navbar-toggler aside-menu-toggler" href="#">&#9776;</a>
-            </li> -->
-
         </ul>
         
         
